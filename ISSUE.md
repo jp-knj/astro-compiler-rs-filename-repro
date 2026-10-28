@@ -4,6 +4,8 @@ With `@astrojs/compiler-rs@0.5.2`, compiling `<div>Hello</div>` with `filename: 
 
 ## Reproduction
 
+Runnable reproduction: [jp-knj/astro-compiler-rs-filename-repro](https://github.com/jp-knj/astro-compiler-rs-filename-repro).
+
 In an empty directory, install the affected version:
 
 ```sh
